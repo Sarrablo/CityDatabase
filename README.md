@@ -1,11 +1,10 @@
 # CityDatabase
 Database of cities from Europe (On construction, now available Spain and Portugal, soon France and Germany)
 
-#How to contribute
-
+# How to contribute
 The DBCreator scripts read the csv "raw.csv". Load the data and run the script
 
-#Raw.csv format:
+# Raw.csv format:
 Name_country;Name_state;Name_Region;Name_city
 
 Example:
