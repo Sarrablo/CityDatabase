@@ -10,3 +10,10 @@ Name_country;Name_state;Name_Region;Name_city
 Example:
 
 ```Spain;Aragon;Zaragoza;Zaragoza```
+
+# Stats (Also called useless information
+
+Country: 2
+State  : 48
+Region : 360
+City   : 12376
