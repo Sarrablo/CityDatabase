@@ -6,6 +6,7 @@ Database of cities from Europe (On construction)
 Spain: 8107 <br />
 Portugal: 4269 <br />
 France: 36694 <br />
+Switzerland: 2324 <br />
 
 # How to contribute
 The DBCreator scripts read the csv "raw.csv". Load the data and run the script
@@ -19,7 +20,7 @@ Example:
 
 # Stats (Also called useless information)
 
-Country: 3 <br />
-State  : 76 <br />
-Region : 462 <br />
-City   : 49070 <br />
+Country: 4 <br />
+State  : 102 <br />
+Region : 610 <br />
+City   : 51394 <br />
