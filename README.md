@@ -11,7 +11,7 @@ Example:
 
 ```Spain;Aragon;Zaragoza;Zaragoza```
 
-# Stats (Also called useless information
+# Stats (Also called useless information)
 
 Country: 2
 State  : 48
