@@ -1,0 +1,44 @@
+Aldosa .  Canillo .
+Canillo.  Canillo .
+El Forn.  Canillo .
+El Tarter.  Canillo .
+El Vilar.  Canillo .
+Els Plans.  Canillo .
+Incles.  Canillo .
+Meritxell.  Canillo .
+Prats.  Canillo .
+Ransol.  Canillo .
+Soldeu.  Canillo 
+Encamp.  Encamp 
+Les Bons.  Encamp 
+Pas De La Casa.  Encamp 
+Vila.  Encamp 
+Ansalonga.  Ordino 
+Arans.  Ordino 
+El Serrat.  Ordino 
+La Cortinada.  Ordino 
+Llorts.  Ordino 
+Ordino.  Ordino 
+Segudet.  Ordino 
+Sornàs.  Ordino 
+Aldosa .  La Massana 
+Anyós.  La Massana 
+Arinsal.  La Massana 
+Erts.  La Massana 
+Escàs.  La Massana 
+La Massana.  La Massana 
+Pal.  La Massana 
+Sispony.  La Massana 
+Andorra.  Andorra La Vella 
+Santa Coloma.  Andorra La Vella 
+Aixirivall.  Sant Julià 
+Aixovall.  Sant Julià 
+Auvinyà.  Sant Julià 
+Bixessarri.  Sant Julià 
+Certés.  Sant Julià 
+Fontaneda.  Sant Julià 
+Juberri.  Sant Julià 
+Llumeneres.  Sant Julià 
+Nagol.  Sant Julià 
+Sant Julià de Lòria.  Sant Julià 
+Escaldes-Engordany.  Escaldes 
