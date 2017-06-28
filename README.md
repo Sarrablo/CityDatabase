@@ -8,6 +8,7 @@ Portugal: 4269 <br />
 France: 36694 <br />
 Switzerland: 2324 <br />
 Andorra: 44 <br />
+Belgium: 2684 <br />
 
 # How to contribute
 The DBCreator scripts read the csv "raw.csv". Load the data and run the script
@@ -21,7 +22,8 @@ Example:
 
 # Stats (Also called useless information)
 
-Country: 5 <br />
-State  : 103 <br />
-Region : 617 <br />
-City   : 51438 <br />
+Country: 6 <br />
+State  : 106 <br />
+Region : 628 <br />
+City   : 54122 <br />
+
