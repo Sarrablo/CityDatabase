@@ -1,0 +1,400 @@
+Drenthe	Province	474,497	488,135	491,411	491,867
+Aa en Hunze	Municipality	25,208	25,598	25,785	25,279
+Assen	Municipality	59,005	65,487	67,177	67,555
+Borger-Odoorn	Municipality	26,298	26,201	25,941	25,355
+Coevorden	Municipality	35,502	35,993	36,067	35,268
+De Wolden	Municipality	23,783	23,554	23,637	23,745
+Emmen	Municipality	107,419	109,151	109,259	107,508
+Hoogeveen	Municipality	52,781	54,468	54,844	55,320
+Meppel	Municipality	30,037	31,536	32,511	33,016
+Midden-Drenthe	Municipality	32,812	33,587	33,581	33,411
+Noordenveld	Municipality	30,958	31,253	30,794	33,042
+Tynaarlo	Municipality	31,751	31,974	32,450	33,280
+Westerveld	Municipality	18,943	19,333	19,365	19,088
+Flevoland	Province	328,877	378,688	391,967	407,905
+Almere	Municipality	150,359	183,270	190,655	200,954
+Dronten	Municipality	35,575	38,528	40,164	40,745
+Lelystad	Municipality	64,665	73,063	75,111	76,970
+Noordoostpolder	Municipality	43,668	45,716	46,253	46,557
+Urk	Municipality	16,231	17,825	18,678	20,220
+Zeewolde	Municipality	18,379	20,286	21,106	22,459
+Friesland (Fryslân)	Province	630,530	643,189	647,282	646,926
+Achtkarspelen	Municipality	28,013	28,088	28,123	27,894
+Ameland	Municipality	3,545	3,456	3,503	3,633
+Dantumadiel (Dantumadeel)	Municipality	19,843	19,399	19,310	18,943
+De Fryske Marren (Skarsterlân, Lemsterland, Gaasterlân-Sleat)	Municipality	50,750	51,550	52,050	51,589
+Dongeradeel	Municipality	24,726	24,694	24,292	23,904
+Ferwerderadiel (Ferwerderadeel)	Municipality	8,818	8,865	8,864	8,735
+Franekeradeel	Municipality	20,353	20,542	20,755	20,211
+Harlingen	Municipality	15,444	15,567	15,878	15,864
+Heerenveen	Municipality	...	49,000	49,400	50,201
+het Bildt	Municipality	10,259	10,933	10,937	10,490
+Kollumerland en Nieuwkruisland	Municipality	13,192	13,085	12,930	12,875
+Leeuwarden	Municipality	...	103,700	105,675	108,685
+Leeuwarderadeel	Municipality	10,656	10,383	10,377	10,105
+Littenseradiel (Littenseradeel)	Municipality	10,728	10,885	10,998	10,740
+Menameradiel (Menaldumadeel)	Municipality	14,130	13,710	13,774	13,452
+Ooststellingwerf	Municipality	26,238	26,398	26,004	25,543
+Opsterland	Municipality	28,833	29,703	29,991	29,720
+Schiermonnikoog	Municipality	1,017	951	957	941
+Smallingerland	Municipality	53,010	54,962	55,436	55,697
+Súdwest-Fryslân	Municipality	...	83,600	84,130	84,167
+Terschelling	Municipality	4,768	4,705	4,721	4,858
+Tytsjerksteradiel (Tietjerksteradeel)	Municipality	31,049	32,243	32,178	31,980
+Vlieland	Municipality	1,215	1,124	1,151	1,088
+Weststellingwerf	Municipality	25,246	25,674	25,846	25,611
+Gelderland	Province	1,934,140	1,983,869	2,004,671	2,048,034
+Aalten	Municipality	27,338	27,568	27,439	27,050
+Apeldoorn	Municipality	153,681	155,108	156,199	160,059
+Arnhem	Municipality	139,299	143,582	148,070	155,721
+Barneveld	Municipality	48,296	51,486	53,026	56,371
+Berg en Dal (Groesbeek)	Municipality	34,503	34,177	34,149	34,803
+Berkelland	Municipality	46,321	45,150	44,863	44,231
+Beuningen	Municipality	25,437	25,321	25,507	25,426
+Bronckhorst	Municipality	37,665	37,833	37,677	36,418
+Brummen	Municipality	21,592	21,200	21,219	20,840
+Buren	Municipality	25,238	25,727	26,013	26,348
+Culemborg	Municipality	25,251	27,298	27,584	27,865
+Doesburg	Municipality	11,518	11,567	11,636	11,345
+Doetinchem	Municipality	54,446	56,253	56,037	57,065
+Druten	Municipality	17,054	18,082	18,097	18,561
+Duiven	Municipality	25,750	25,560	25,550	25,399
+Ede	Municipality	102,401	107,686	108,285	113,448
+Elburg	Municipality	21,689	22,231	22,310	23,029
+Epe	Municipality	33,156	32,970	32,875	32,543
+Ermelo	Municipality	26,784	26,270	26,133	26,596
+Geldermalsen	Municipality	24,882	26,285	26,224	26,599
+Harderwijk	Municipality	40,183	42,333	44,932	46,358
+Hattem	Municipality	11,672	11,657	11,762	12,036
+Heerde	Municipality	18,083	18,212	18,300	18,563
+Heumen	Municipality	16,503	16,628	16,494	16,468
+Lingewaal	Municipality	10,692	10,916	10,878	11,164
+Lingewaard	Municipality	41,143	44,617	45,589	46,173
+Lochem	Municipality	32,548	33,045	33,278	33,543
+Maasdriel	Municipality	23,369	23,631	23,970	24,254
+Montferland	Municipality	35,032	34,995	34,976	35,311
+Neder-Betuwe	Municipality	22,144	22,424	22,620	23,301
+Neerijnen	Municipality	11,389	11,851	11,843	12,342
+Nijkerk	Municipality	36,720	38,982	39,788	41,763
+Nijmegen	Municipality	153,684	161,251	164,223	173,592
+Nunspeet	Municipality	26,139	26,567	26,685	26,890
+Oldebroek	Municipality	22,645	22,771	22,659	23,263
+Oost Gelre (Groenlo)	Municipality	28,343	29,873	30,113	29,632
+Oude IJsselstreek	Municipality	40,520	39,905	39,922	39,569
+Overbetuwe	Municipality	39,684	44,226	45,953	47,388
+Putten	Municipality	22,887	23,183	23,746	24,418
+Renkum	Municipality	32,234	31,719	31,559	31,405
+Rheden	Municipality	44,384	43,763	43,982	43,650
+Rijnwaarden	Municipality	11,063	11,008	11,010	10,848
+Rozendaal	Municipality	1,505	1,511	1,512	1,495
+Scherpenzeel	Municipality	9,138	9,037	9,327	9,701
+Tiel	Municipality	39,606	41,132	41,181	41,491
+Voorst	Municipality	23,712	23,660	23,703	24,200
+Wageningen	Municipality	33,820	36,215	36,642	38,497
+Westervoort	Municipality	16,153	15,478	15,336	14,985
+West Maas en Waal	Municipality	18,181	18,320	18,301	18,816
+Wijchen	Municipality	38,425	39,660	40,507	40,878
+Winterswijk	Municipality	28,672	29,182	29,026	28,904
+Zaltbommel	Municipality	25,658	26,185	26,643	27,727
+Zevenaar	Municipality	31,082	31,816	32,234	32,374
+Zutphen	Municipality	44,826	46,762	47,084	47,318
+Groningen	Province	566,468	573,459	579,036	583,585
+Appingedam	Municipality	12,434	12,131	12,090	11,967
+Bedum	Municipality	10,877	10,550	10,495	10,480
+Bellingwedde	Municipality	9,748	9,497	9,402	8,920
+Delfzijl	Municipality	28,968	27,314	26,567	24,961
+De Marne	Municipality	10,881	10,696	10,501	10,083
+Eemsmond	Municipality	16,724	16,542	16,357	15,656
+Groningen	Municipality	174,240	182,484	189,991	202,567
+Grootegast	Municipality	11,877	12,208	12,209	12,166
+Haren	Municipality	18,697	18,706	18,515	19,581
+Hoogezand-Sappemeer	Municipality	33,248	34,417	34,814	34,232
+Leek	Municipality	19,014	19,289	19,333	19,644
+Loppersum	Municipality	11,037	10,702	10,478	9,915
+Marum	Municipality	9,938	10,218	10,471	10,394
+Menterwolde	Municipality	12,563	12,498	12,385	12,168
+Oldambt	Municipality	40,168	39,606	39,396	38,107
+Pekela	Municipality	13,359	13,262	12,954	12,548
+Slochteren	Municipality	14,873	15,564	15,546	14,736
+Stadskanaal	Municipality	33,517	33,817	33,122	32,255
+Ten Boer	Municipality	7,465	7,276	7,454	7,283
+Veendam	Municipality	28,328	28,058	27,981	27,526
+Vlagtwedde	Municipality	16,403	16,325	16,290	15,937
+Winsum	Municipality	14,009	13,925	14,054	13,596
+Zuidhorn	Municipality	18,100	18,374	18,631	18,863
+Limburg	Province	1,142,584	1,123,705	1,122,627	1,117,655
+Beek (L.)	Municipality	17,174	16,696	16,548	15,945
+Beesel	Municipality	13,188	13,643	13,844	13,407
+Bergen (L.)	Municipality	13,444	13,499	13,350	13,095
+Brunssum	Municipality	30,395	29,742	29,375	28,373
+Echt-Susteren	Municipality	32,269	32,172	32,264	31,826
+Eijsden-Margraten	Municipality	25,814	25,026	24,940	25,297
+Gennep	Municipality	16,822	16,890	17,383	17,129
+Gulpen-Wittem	Municipality	15,525	14,712	14,496	14,329
+Heerlen	Municipality	95,149	89,671	89,212	87,202
+Horst aan de Maas	Municipality	...	...	41,814	42,135
+Kerkrade	Municipality	51,065	48,334	47,409	45,954
+Landgraaf	Municipality	40,768	38,748	38,186	37,479
+Leudal	Municipality	36,689	36,744	36,600	35,907
+Maasgouw	Municipality	24,597	24,545	24,272	23,773
+Maastricht	Municipality	122,161	118,004	119,664	122,798
+Meerssen	Municipality	20,245	19,744	19,495	19,068
+Mook en Middelaar	Municipality	7,978	8,084	7,947	7,770
+Nederweert	Municipality	16,171	16,665	16,678	16,857
+Nuth	Municipality	16,687	15,851	15,595	15,315
+Onderbanken	Municipality	8,467	8,240	8,016	7,860
+Peel en Maas	Municipality	42,301	42,688	43,188	43,354
+Roerdalen	Municipality	21,566	21,142	21,239	20,692
+Roermond	Municipality	53,767	54,446	55,595	57,419
+Schinnen	Municipality	13,656	13,418	13,408	12,950
+Simpelveld	Municipality	11,500	11,206	10,953	10,569
+Sittard-Geleen	Municipality	97,923	95,691	94,814	93,315
+Stein (L.)	Municipality	26,428	26,091	25,709	25,065
+Vaals	Municipality	10,838	9,838	9,805	9,703
+Valkenburg aan de Geul	Municipality	17,884	17,099	17,024	16,440
+Venlo	Municipality	99,541	100,615	99,793	101,023
+Venray	Municipality	...	...	42,784	43,566
+Voerendaal	Municipality	13,141	12,757	12,664	12,464
+Weert	Municipality	48,151	48,305	48,563	49,576
+Noord-Brabant [North Brabant]	Province	2,374,999	2,424,827	2,454,215	2,513,243
+Aalburg	Municipality	11,928	12,386	12,685	13,070
+Alphen-Chaam	Municipality	9,486	9,455	9,466	10,052
+Asten	Municipality	15,788	16,392	16,296	16,709
+Baarle-Nassau	Municipality	6,312	6,664	6,704	6,658
+Bergeijk	Municipality	17,966	18,099	18,073	18,352
+Bergen op Zoom	Municipality	65,361	65,242	66,074	66,211
+Bernheze	Municipality	28,664	29,663	29,728	30,256
+Best	Municipality	26,825	29,089	28,810	29,175
+Bladel	Municipality	18,990	19,114	19,386	20,061
+Boekel	Municipality	9,230	9,646	9,865	10,413
+Boxmeer	Municipality	28,907	28,635	28,582	28,719
+Boxtel	Municipality	29,265	30,241	30,280	30,668
+Breda	Municipality	162,307	170,960	174,599	182,777
+Cranendonck	Municipality	20,288	20,263	20,371	20,686
+Cuijk	Municipality	24,234	24,226	24,580	24,703
+Deurne	Municipality	32,044	31,643	31,676	31,928
+Dongen	Municipality	24,856	25,442	25,101	25,511
+Drimmelen	Municipality	26,624	26,623	26,477	26,863
+Eersel	Municipality	18,315	18,072	18,166	18,554
+Eindhoven	Municipality	203,391	210,333	216,036	226,879
+Etten-Leur	Municipality	37,782	40,435	41,800	43,032
+Geertruidenberg	Municipality	20,987	20,742	21,307	21,502
+Geldrop-Mierlo	Municipality	38,219	37,982	38,389	39,070
+Gemert-Bakel	Municipality	27,683	28,103	28,906	30,032
+Gilze en Rijen	Municipality	24,544	25,644	25,764	26,241
+Goirle	Municipality	22,389	22,319	22,807	23,316
+Grave	Municipality	12,635	12,717	13,031	12,381
+Haaren	Municipality	14,085	13,769	13,630	13,907
+Halderberge	Municipality	29,496	29,488	29,292	29,581
+Heeze-Leende	Municipality	15,284	15,133	15,295	15,713
+Helmond	Municipality	80,929	86,767	88,560	90,619
+Heusden	Municipality	42,934	42,942	43,119	43,516
+Hilvarenbeek	Municipality	14,804	15,107	15,035	15,282
+Laarbeek	Municipality	21,540	21,783	21,532	21,945
+Landerd	Municipality	14,366	14,796	14,941	15,317
+Loon op Zand	Municipality	22,911	22,885	22,973	23,095
+Meierijstad (Veghel - Schijndel - Sint-Oedenrode)	Municipality	76,437	77,011	78,338	79,835
+Mill en Sint Hubert	Municipality	11,091	10,996	11,000	10,807
+Moerdijk	Municipality	36,451	36,724	36,547	36,945
+Nuenen, Gerwen en Nederwetten	Municipality	23,678	22,598	22,242	22,869
+Oirschot	Municipality	17,703	17,855	17,845	18,491
+Oisterwijk	Municipality	25,280	25,743	25,721	25,945
+Oosterhout	Municipality	52,743	53,785	54,072	54,604
+Oss	Municipality	87,096	88,354	89,105	90,364
+Reusel-De Mierden	Municipality	12,457	12,384	12,606	12,908
+Roosendaal	Municipality	76,769	77,277	77,541	77,189
+Rucphen	Municipality	22,586	22,473	22,430	22,333
+ s-Hertogenbosch	Municipality	136,910	142,835	147,136	152,472
+Sint Anthonis	Municipality	11,670	11,789	11,796	11,599
+Sint-Michielsgestel	Municipality	27,828	28,100	28,114	28,585
+Someren	Municipality	18,452	18,211	18,317	19,035
+Son en Breugel	Municipality	14,819	15,448	15,653	16,628
+Steenbergen	Municipality	23,354	23,211	23,273	23,971
+Tilburg	Municipality	195,767	202,091	206,240	213,840
+Uden	Municipality	39,922	40,126	40,721	41,387
+Valkenswaard	Municipality	31,008	30,867	30,622	30,515
+Veldhoven	Municipality	42,489	43,056	43,592	44,720
+Vught	Municipality	25,466	25,337	25,654	26,191
+Waalre	Municipality	16,266	16,695	16,482	16,898
+Waalwijk	Municipality	45,278	45,641	46,211	47,417
+Werkendam	Municipality	26,120	26,415	26,353	26,844
+Woensdrecht	Municipality	21,455	21,637	21,682	21,833
+Woudrichem	Municipality	14,264	14,421	14,423	14,537
+Zundert	Municipality	20,271	20,947	21,163	21,687
+Noord-Holland [North Holland]	Province	2,543,135	2,626,163	2,691,477	2,813,466
+Aalsmeer	Municipality	22,662	26,386	30,189	31,382
+Alkmaar	Municipality	104,308	105,722	105,778	108,437
+Amstelveen	Municipality	77,351	78,980	81,796	89,298
+Amsterdam	Municipality	734,533	747,093	779,808	848,861
+Beemster	Municipality	8,451	8,474	8,573	9,208
+Bergen (NH.)	Municipality	31,684	31,220	30,868	29,839
+Beverwijk	Municipality	35,937	37,347	39,329	40,696
+Blaricum	Municipality	9,376	9,036	8,959	10,194
+Bloemendaal	Municipality	22,057	21,967	22,039	22,826
+Castricum	Municipality	34,703	34,705	34,593	35,230
+Den Helder	Municipality	59,820	57,795	57,207	56,030
+Diemen	Municipality	23,835	24,046	25,012	27,225
+Drechterland	Municipality	17,875	18,818	19,335	19,383
+Edam-Volendam	Municipality	34,029	34,754	34,933	35,802
+Enkhuizen	Municipality	17,033	17,804	18,173	18,474
+Gooise Meren (Bussum - Naarden)	Municipality	54,689	55,452	56,094	56,973
+Haarlem	Municipality	148,373	147,640	150,670	159,234
+Haarlemmerliede en Spaarnwoude	Municipality	5,578	5,429	5,432	5,666
+Haarlemmermeer	Municipality	113,543	140,648	143,374	145,989
+Heemskerk	Municipality	36,068	38,381	39,206	39,171
+Heemstede	Municipality	26,003	25,626	26,297	26,920
+Heerhugowaard	Municipality	45,551	50,390	51,985	54,937
+Heiloo	Municipality	21,897	22,024	22,580	22,851
+Hilversum	Municipality	82,769	83,815	84,984	88,915
+Hollands Kroon	Municipality	45,987	47,419	47,677	47,595
+Hoorn	Municipality	65,756	68,696	70,697	72,519
+Huizen	Municipality	42,098	41,880	41,726	41,378
+Koggenland	Municipality	20,022	21,495	22,082	22,524
+Landsmeer	Municipality	10,242	10,173	10,253	11,270
+Langedijk	Municipality	24,200	26,047	26,997	27,616
+Laren (NH.)	Municipality	11,529	10,958	11,418	11,089
+Medemblik	Municipality	40,991	41,863	42,891	44,058
+Oostzaan	Municipality	8,908	9,205	9,114	9,653
+Opmeer	Municipality	11,041	11,244	11,420	11,421
+Ouder-Amstel	Municipality	12,987	13,046	13,146	13,428
+Purmerend	Municipality	72,142	78,434	79,193	79,895
+Schagen	Municipality	43,463	46,508	46,427	46,197
+Stede Broec	Municipality	21,081	21,372	21,402	21,553
+Texel	Municipality	13,534	13,547	13,728	13,544
+Uitgeest	Municipality	11,669	12,205	12,819	13,470
+Uithoorn	Municipality	26,236	27,501	28,114	29,201
+Velsen	Municipality	66,973	67,556	67,347	67,604
+Waterland	Municipality	17,224	17,026	17,140	17,291
+Weesp	Municipality	18,091	17,575	17,987	18,729
+Wijdemeren	Municipality	23,057	23,432	23,312	23,442
+Wormerland	Municipality	15,383	15,901	15,801	15,804
+Zaanstad	Municipality	136,102	142,863	146,940	153,750
+Zandvoort	Municipality	16,294	16,665	16,632	16,894
+Overijssel	Province	1,086,063	1,119,994	1,134,465	1,147,693
+Almelo	Municipality	70,378	72,287	72,599	72,487
+Borne	Municipality	20,717	20,764	21,557	22,796
+Dalfsen	Municipality	25,830	26,735	27,313	28,070
+Deventer	Municipality	90,232	97,342	98,737	99,328
+Dinkelland	Municipality	25,973	26,116	26,067	26,243
+Enschede	Municipality	150,447	154,753	157,838	158,142
+Haaksbergen	Municipality	24,129	24,378	24,448	24,271
+Hardenberg	Municipality	57,219	58,207	59,283	60,196
+Hellendoorn	Municipality	35,789	36,059	35,747	35,774
+Hengelo (O.)	Municipality	80,409	81,088	80,747	80,813
+Hof van Twente	Municipality	34,847	35,181	35,573	35,008
+Kampen	Municipality	47,936	49,385	50,403	52,514
+Losser	Municipality	22,756	22,492	22,664	22,480
+Oldenzaal	Municipality	31,110	31,584	32,176	32,011
+Olst-Wijhe	Municipality	17,022	17,334	17,502	17,959
+Ommen	Municipality	16,771	17,419	17,329	17,530
+Raalte	Municipality	36,402	37,030	36,688	36,905
+Rijssen-Holten	Municipality	35,399	36,667	37,433	37,979
+Staphorst	Municipality	15,328	15,973	16,179	16,694
+Steenwijkerland	Municipality	41,171	43,282	43,281	43,446
+Tubbergen	Municipality	20,021	20,797	21,171	21,152
+Twenterand	Municipality	33,322	33,461	33,727	33,843
+Wierden	Municipality	23,414	23,365	23,630	24,219
+Zwartewaterland	Municipality	22,079	21,930	22,018	22,308
+Zwolle	Municipality	107,362	116,365	120,355	125,525
+Utrecht	Province	1,109,166	1,201,350	1,228,794	1,284,484
+Amersfoort	Municipality	128,023	141,211	146,592	154,338
+Baarn	Municipality	24,526	24,406	24,379	24,522
+Bunnik	Municipality	13,768	14,258	14,437	15,156
+Bunschoten	Municipality	19,259	19,611	20,111	21,022
+De Bilt	Municipality	42,050	41,998	42,049	42,759
+De Ronde Venen	Municipality	42,712	43,257	43,004	42,759
+Eemnes	Municipality	8,660	8,964	8,845	9,000
+Houten	Municipality	35,976	46,475	47,935	49,294
+IJsselstein	Municipality	30,922	34,059	34,348	34,206
+Leusden	Municipality	28,833	28,540	28,609	29,674
+Lopik	Municipality	13,513	14,047	14,121	14,207
+Montfoort	Municipality	13,283	13,493	13,500	13,867
+Nieuwegein	Municipality	62,343	61,087	60,947	61,865
+Oudewater	Municipality	9,740	9,917	9,815	10,185
+Renswoude	Municipality	4,055	4,482	4,752	5,101
+Rhenen	Municipality	17,344	18,779	18,951	19,590
+Soest	Municipality	44,621	45,560	45,611	45,855
+Stichtse Vecht	Municipality	62,942	62,315	63,050	64,437
+Utrecht	Municipality	256,393	294,737	311,367	343,086
+Utrechtse Heuvelrug	Municipality	48,887	48,979	48,726	49,013
+Veenendaal	Municipality	60,391	61,769	62,267	64,284
+Vianen	Municipality	19,260	19,637	19,683	19,711
+Wijk bij Duurstede	Municipality	23,154	23,306	23,115	23,504
+Woerden	Municipality	46,910	48,383	49,748	51,522
+Woudenberg	Municipality	11,025	11,592	12,008	12,701
+Zeist	Municipality	59,836	60,488	60,824	62,826
+Zeeland [Zealand]	Province	374,912	380,585	381,530	381,563
+Borsele	Municipality	22,007	22,531	22,707	22,684
+Goes	Municipality	35,953	36,706	36,665	37,256
+Hulst	Municipality	27,662	27,944	27,719	27,400
+Kapelle	Municipality	11,442	12,047	12,365	12,620
+Middelburg (Z.)	Municipality	45,426	47,325	48,030	48,025
+Noord-Beveland	Municipality	6,971	7,289	7,474	7,386
+Reimerswaal	Municipality	20,726	21,296	21,614	22,362
+Schouwen-Duiveland	Municipality	34,193	33,994	34,203	33,759
+Sluis	Municipality	24,594	24,238	23,979	23,654
+Terneuzen	Municipality	55,370	55,155	54,823	54,592
+Tholen	Municipality	23,763	25,264	25,489	25,526
+Veere	Municipality	22,031	21,998	21,926	21,900
+Vlissingen	Municipality	44,774	44,798	44,536	44,399
+Zuid-Holland [South Holland]	Province	3,420,167	3,461,435	3,528,324	3,653,269
+Alblasserdam	Municipality	18,409	18,718	19,208	20,015
+Albrandswaard	Municipality	17,719	22,453	24,674	25,106
+Alphen aan den Rijn	Municipality	104,460	105,579	106,190	108,918
+Barendrecht	Municipality	30,972	44,962	46,831	48,344
+Binnenmaas	Municipality	27,970	28,797	28,967	29,122
+Bodegraven-Reeuwijk	Municipality	32,488	32,226	32,728	33,731
+Brielle	Municipality	15,964	15,762	15,978	16,837
+Capelle aan den IJssel	Municipality	65,016	65,022	66,104	66,445
+Cromstrijen	Municipality	12,791	12,853	12,789	12,797
+Delft	Municipality	96,152	96,168	97,690	101,361
+Dordrecht	Municipality	120,019	118,182	118,810	118,624
+Giessenlanden	Municipality	14,178	14,422	14,427	14,598
+Goeree-Overflakkee	Municipality	46,646	47,780	48,273	48,661
+Gorinchem	Municipality	33,994	34,472	34,895	35,745
+Gouda	Municipality	71,782	70,857	71,047	71,757
+Hardinxveld-Giessendam	Municipality	17,811	17,604	17,535	17,866
+Hellevoetsluis	Municipality	38,860	39,620	39,739	38,721
+Hendrik-Ido-Ambacht	Municipality	21,178	24,854	27,616	29,724
+Hillegom	Municipality	20,855	20,348	20,627	21,313
+Kaag en Braassem (Alkemade-Jacobswoude)	Municipality	25,075	25,252	25,744	26,377
+Katwijk	Municipality	59,569	61,180	62,044	64,546
+Korendijk	Municipality	10,752	10,934	10,848	10,954
+Krimpen aan den IJssel	Municipality	28,696	28,807	28,626	29,139
+Krimpenerwaard	Municipality	53,862	53,966	53,664	55,218
+Lansingerland	Municipality	40,441	49,411	54,090	60,098
+Leerdam	Municipality	20,878	20,624	20,692	20,905
+Leiden	Municipality	117,010	116,878	117,915	123,752
+Leiderdorp	Municipality	26,174	26,376	26,609	27,129
+Leidschendam-Voorburg	Municipality	...	72,862	72,068	74,608
+Lisse	Municipality	21,999	22,131	22,685	22,713
+Maassluis	Municipality	32,967	31,394	31,910	32,443
+Midden-Delfland	Municipality	17,907	17,451	18,154	19,034
+Molenwaard	Municipality	28,535	29,070	29,094	29,206
+Nieuwkoop	Municipality	26,890	26,777	26,988	27,914
+Nissewaard (Spijkenisse-Bernisse)	Municipality	86,583	85,647	84,648	85,398
+Noordwijk	Municipality	24,656	24,906	25,438	25,865
+Noordwijkerhout	Municipality	15,362	15,399	15,601	16,326
+Oegstgeest	Municipality	21,110	22,367	22,767	23,601
+Oud-Beijerland	Municipality	22,390	23,824	23,536	24,021
+Papendrecht	Municipality	30,088	31,573	31,883	32,286
+Pijnacker-Nootdorp	Municipality	35,956	43,762	49,286	52,670
+Ridderkerk	Municipality	46,537	44,689	44,889	45,411
+Rijswijk (ZH.)	Municipality	53,159	46,833	46,671	51,009
+Rotterdam	Municipality	608,422	595,504	610,386	638,221
+Schiedam	Municipality	76,096	74,947	75,718	77,859
+ s-Gravenhage (Den Haag) [The Hague]	Municipality	...	475,681	495,083	524,305
+Sliedrecht	Municipality	23,663	23,765	24,061	24,999
+Strijen	Municipality	9,389	9,055	8,868	8,783
+Teylingen	Municipality	33,943	35,308	35,812	36,092
+Vlaardingen	Municipality	73,666	70,860	71,269	72,062
+Voorschoten	Municipality	22,620	22,861	23,865	25,319
+Waddinxveen	Municipality	26,841	25,638	25,337	26,536
+Wassenaar	Municipality	26,019	25,763	25,830	26,051
+Westland	Municipality	95,084	99,299	99,776	105,636
+Westvoorne	Municipality	13,899	14,084	13,992	14,258
+Zederik	Municipality	13,609	13,389	13,342	13,839
+Zoetermeer	Municipality	110,114	119,504	121,911	124,745
+Zoeterwoude	Municipality	8,683	8,303	8,130	8,371
+Zuidplas	Municipality	39,562	40,210	40,521	41,462
+Zwijndrecht	Municipality	44,946	44,472	44,445	44,423
